@@ -1,4 +1,4 @@
-# [open-source.world](https://open-source.world)/index
+# [🔙 to open-source.world](https://open-source.world)
 
 ## Afghanistan (AF)
 ## Åland Islands (AX)
