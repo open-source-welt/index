@@ -85,6 +85,19 @@
 ## Gambia (GM)
 ## Georgia (GE)
 ## Germany (DE)
+
+### OSB Alliance – Bundesverband für digitale Souveränität e.V.
+
+![OSB Alliance – Bundesverband für digitale Souveränität e.V.](https://upload.wikimedia.org/wikipedia/commons/d/df/Logo_OSB_Alliance_–_Open_Source_Business_Alliance_e.V.png)
+
+> Die OSB Alliance – Bundesverband für digitale Souveränität e.V. vertritt rund 160 Mitgliedsunternehmen der Open Source Wirtschaft, die in Deutschland gemeinsam jährlich mehr als 1,7 Milliarden Euro erwirtschaften*. Zusammen mit unseren wissenschaftlichen Einrichtungen und Anwenderorganisationen setzen wir uns dafür ein, die zentrale Bedeutung von Open Source-Software und offenen Standards für eine digital souveräne Gesellschaft nachhaltig im öffentlichen Bewusstsein zu verankern. Dieser digitale Wandel soll Unternehmen, Regierungen, Behörden und Bürgern gleichermaßen zugute kommen. Wir treten dafür ein, Open Source als Standard in der öffentlichen Beschaffung und bei der Forschungs- und Wirtschaftsförderung zu etablieren. Um unsere Ziele zu verwirklichen, stehen wir Unternehmen, Privatpersonen, Medien und der Politik als Experten und Ansprechpartner zur Verfügung.
+
+> Verantwortungsträger in Politik, Verwaltung und Wirtschaft haben erkannt, dass nicht nur Bürger, sondern auch staatliche Institutionen und Unternehmen in Deutschland und Europa Gefahr laufen, die Kontrolle über die von ihnen generierten Daten zu verlieren oder diese bereits verloren haben. Ein solcher Kontrollverlust hat fatale Folgen für staatliches Handeln, für die Wettbewerbs- und Innovationsfähigkeit unserer Wirtschaft, vor allem aber auch für die Sicherung unserer humanistischen europäischen Werte und der darauf basierenden demokratischen Grundordnungen.
+
+> Die OSB Alliance betrachtet Open Source und offene Standards als zwingende Grundlagen für digitale Souveränität, Flexibilität und Sicherheit im digitalen Wandel und damit als die Antwort auf eine der größten Herausforderungen unserer Zeit. Wir treten entschieden für digitale Souveränität ein und tragen deshalb seit April 2020 mit OSB Alliance – Bundesverband für digitale Souveränität e.V. diese Überzeugung auch in unserem Namen.
+
+↗️ [Source](https://osb-alliance.de/ueber-uns/was-ist-die-osb-alliance)
+
 ## Ghana (GH)
 ## Gibraltar (GI)
 ## Greece (GR)
