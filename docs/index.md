@@ -261,6 +261,18 @@
 ## United Arab Emirates (AE)
 ## United Kingdom (GB)
 ## United States (US)
+
+### [The Apache Software Foundation](https://www.apache.org)
+
+![The Apache Software Foundation](https://upload.wikimedia.org/wikipedia/commons/d/db/Apache_Software_Foundation_Logo_%282016%29.svg)
+
+> Established in 1999, the ASF is a US 501(c)(3) charitable organization, funded by individual donations and corporate sponsors. Our all-volunteer board oversees more than 350 leading Open Source projects, including Apache HTTP Server -- the world's most popular Web server software.
+
+> The ASF provides an established framework for intellectual property and financial contributions that simultaneously limits potential legal exposure for our project committers. Through the ASF's meritocratic process known as "The Apache Way," more than 730 individual Members and 7,000 Committers successfully collaborate to develop freely available enterprise-grade software, benefiting millions of users worldwide: thousands of software solutions are distributed under the Apache License; and the community actively participates in ASF mailing lists, mentoring initiatives, and ApacheCon, the Foundation's official user conference, trainings, and expo.
+
+↗️ [Source](https://www.apache.org/foundation/)
+
+
 ## Uruguay (UY)
 ## Uzbekistan (UZ)
 ## Vanuatu (VU)
@@ -284,9 +296,5 @@ in [alphabetical order](https://en.wikipedia.org/wiki/Alphabetical_order)
 `![alt-name of activity logo](https://www.top-level-link-to-activity.tld/some/kind/of/url/logo.extension)`
 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec molestie nunc. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam aliquam, ante tincidunt lacinia interdum, arcu quam tincidunt metus, sit amet imperdiet est purus non neque. Sed eleifend enim vitae erat suscipit dapibus. Pellentesque dapibus in ligula et rhoncus. Ut pretium maximus elementum. Pellentesque iaculis efficitur ex eget tempor. Integer mauris velit, congue eget scelerisque sit amet, dictum consectetur quam. Nullam laoreet urna at turpis sollicitudin semper. Vivamus at metus sagittis, accumsan odio maximus, viverra lorem. Pellentesque non commodo ante. Cras mauris lacus, venenatis id sapien posuere, faucibus consectetur arcu. Duis justo ipsum, dapibus eu eros placerat, semper pretium arcu.
-
-> Maecenas at elit et justo sagittis rhoncus eu sit amet libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a mauris interdum justo imperdiet molestie. Nunc vel arcu auctor, tempus lectus vitae, porta metus. Fusce pretium ipsum eu diam pellentesque efficitur. Aenean sit amet libero tortor. Morbi faucibus non quam sit amet pellentesque. Ut efficitur mauris eget nisi rutrum tempor. Nunc quis orci in urna porttitor iaculis nec nec dui.
-
-> Aliquam sit amet ipsum a lacus feugiat aliquet. Curabitur gravida odio ac nisi ornare tempus. Duis mauris quam, interdum sit amet ornare id, ornare quis purus. Integer vulputate consequat enim. Nulla vel eros urna. Mauris sed elementum nulla. Pellentesque egestas finibus laoreet. Quisque molestie vestibulum nibh quis vestibulum. Morbi eu quam sed neque vestibulum rutrum commodo at quam. Praesent a ipsum faucibus, bibendum neque ac, sodales tortor. Nulla neque est, cursus at sem quis, fermentum convallis dui. Vestibulum sit amet nisi sed justo vehicula varius eget quis dui. Nunc congue lacus dolor, ut pellentesque felis vestibulum vitae.
 
 ↗️ [Source](https://www.top-level-link-to-activity.tld/s/o/u/r/c/e.md)
