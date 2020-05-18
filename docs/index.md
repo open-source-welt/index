@@ -86,7 +86,7 @@
 ## Georgia (GE)
 ## Germany (DE)
 
-### OSB Alliance – Bundesverband für digitale Souveränität e.V.
+### [OSB Alliance – Bundesverband für digitale Souveränität e.V.](https://osb-alliance.de)
 
 ![OSB Alliance – Bundesverband für digitale Souveränität e.V.](https://upload.wikimedia.org/wikipedia/commons/d/df/Logo_OSB_Alliance_–_Open_Source_Business_Alliance_e.V.png)
 
