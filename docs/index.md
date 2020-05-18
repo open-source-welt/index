@@ -216,6 +216,15 @@
 ## Svalbard & Jan Mayen (SJ)
 ## Sweden (SE)
 ## Switzerland (CH)
+
+### [CH Open](https://www.ch-open.ch)
+
+![CH Open](https://www.ch-open.ch/wp-content/uploads/2019/04/logo_chopen_web_big-1.png)
+
+> Der Verein CH Open fördert seit 1982 offene Systeme (Open Source Software) und Standards (Open Standards) in der Schweizer ICT-Landschaft. Mit zahlreichen aktiven Working Groups und Events informiert und vernetzt die CH Open Unternehmen, öffentliche Verwaltung, Bildungsinstitutionen und Einzelpersonen und setzt sich politisch für mehr Offenheit und Nachhaltigkeit in der Informatik ein. CH Open hat rund 200 Einzelmitglieder, 54 Kollektivmitglieder (Firmen und Behörden) und 52 Sponsoren. Zahlreiche Kooperationen mit Schweizerischen und ausländischen ICT-Verbänden, Communities sowie Hochschulen und Behörden tragen zur Umsetzung der Anliegen von CH Open auf allen Ebenen bei.
+
+↗️ [Source](https://www.ch-open.ch/en/ueber-ch-open/)
+
 ## Syria (SY)
 ## Taiwan (TW)
 ## Tajikistan (TJ)
@@ -260,8 +269,10 @@ in [alphabetical order](https://en.wikipedia.org/wiki/Alphabetical_order)
 
 `![alt-name of activity logo](https://www.top-level-link-to-activity.tld/some/kind/of/url/logo.extension)`
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec molestie nunc. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam aliquam, ante tincidunt lacinia interdum, arcu quam tincidunt metus, sit amet imperdiet est purus non neque. Sed eleifend enim vitae erat suscipit dapibus. Pellentesque dapibus in ligula et rhoncus. Ut pretium maximus elementum. Pellentesque iaculis efficitur ex eget tempor. Integer mauris velit, congue eget scelerisque sit amet, dictum consectetur quam. Nullam laoreet urna at turpis sollicitudin semper. Vivamus at metus sagittis, accumsan odio maximus, viverra lorem. Pellentesque non commodo ante. Cras mauris lacus, venenatis id sapien posuere, faucibus consectetur arcu. Duis justo ipsum, dapibus eu eros placerat, semper pretium arcu.
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec molestie nunc. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam aliquam, ante tincidunt lacinia interdum, arcu quam tincidunt metus, sit amet imperdiet est purus non neque. Sed eleifend enim vitae erat suscipit dapibus. Pellentesque dapibus in ligula et rhoncus. Ut pretium maximus elementum. Pellentesque iaculis efficitur ex eget tempor. Integer mauris velit, congue eget scelerisque sit amet, dictum consectetur quam. Nullam laoreet urna at turpis sollicitudin semper. Vivamus at metus sagittis, accumsan odio maximus, viverra lorem. Pellentesque non commodo ante. Cras mauris lacus, venenatis id sapien posuere, faucibus consectetur arcu. Duis justo ipsum, dapibus eu eros placerat, semper pretium arcu.
 
-Maecenas at elit et justo sagittis rhoncus eu sit amet libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a mauris interdum justo imperdiet molestie. Nunc vel arcu auctor, tempus lectus vitae, porta metus. Fusce pretium ipsum eu diam pellentesque efficitur. Aenean sit amet libero tortor. Morbi faucibus non quam sit amet pellentesque. Ut efficitur mauris eget nisi rutrum tempor. Nunc quis orci in urna porttitor iaculis nec nec dui.
+> Maecenas at elit et justo sagittis rhoncus eu sit amet libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a mauris interdum justo imperdiet molestie. Nunc vel arcu auctor, tempus lectus vitae, porta metus. Fusce pretium ipsum eu diam pellentesque efficitur. Aenean sit amet libero tortor. Morbi faucibus non quam sit amet pellentesque. Ut efficitur mauris eget nisi rutrum tempor. Nunc quis orci in urna porttitor iaculis nec nec dui.
 
-Aliquam sit amet ipsum a lacus feugiat aliquet. Curabitur gravida odio ac nisi ornare tempus. Duis mauris quam, interdum sit amet ornare id, ornare quis purus. Integer vulputate consequat enim. Nulla vel eros urna. Mauris sed elementum nulla. Pellentesque egestas finibus laoreet. Quisque molestie vestibulum nibh quis vestibulum. Morbi eu quam sed neque vestibulum rutrum commodo at quam. Praesent a ipsum faucibus, bibendum neque ac, sodales tortor. Nulla neque est, cursus at sem quis, fermentum convallis dui. Vestibulum sit amet nisi sed justo vehicula varius eget quis dui. Nunc congue lacus dolor, ut pellentesque felis vestibulum vitae.
+> Aliquam sit amet ipsum a lacus feugiat aliquet. Curabitur gravida odio ac nisi ornare tempus. Duis mauris quam, interdum sit amet ornare id, ornare quis purus. Integer vulputate consequat enim. Nulla vel eros urna. Mauris sed elementum nulla. Pellentesque egestas finibus laoreet. Quisque molestie vestibulum nibh quis vestibulum. Morbi eu quam sed neque vestibulum rutrum commodo at quam. Praesent a ipsum faucibus, bibendum neque ac, sodales tortor. Nulla neque est, cursus at sem quis, fermentum convallis dui. Vestibulum sit amet nisi sed justo vehicula varius eget quis dui. Nunc congue lacus dolor, ut pellentesque felis vestibulum vitae.
+
+↗️ [Source](https://www.top-level-link-to-activity.tld/s/o/u/r/c/e.md)
