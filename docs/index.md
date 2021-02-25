@@ -78,6 +78,19 @@
 ## Faroe Islands (FO)
 ## Fiji (FJ)
 ## Finland (FI)
+
+### [COSS](https://coss.fi)
+
+![COSS - the Finnish Centre for Open Systems and Solutions](https://coss.fi/wp-content/uploads/2009/07/coss_logo_2_suomi_RGB-300x190.jpg)
+
+> COSS – the Finnish Centre for Open Systems and Solutions is a non-profit association that promotes open source, open data, open standards and APIs. Internationally COSS is known as one of the oldest and most active centres for openness.
+
+> COSS operation is based on far-reaching cooperation, communication and creating networks.
+
+> The objective of COSS is to strengthen the competitiveness of Finland’s software intensive industries, promote the growth and internationalization of open source businesses and reinforce the development of the Finnish information society with the support of open technologies and communities.
+
+↗️ [Source](https://coss.fi/en/)
+
 ## France (FR)
 ## French Guiana (GF)
 ## French Polynesia (PF)
