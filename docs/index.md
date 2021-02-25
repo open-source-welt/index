@@ -92,6 +92,15 @@
 ↗️ [Source](https://coss.fi/en/)
 
 ## France (FR)
+
+### [CNLL](https://cnll.fr)
+
+![CNLL](https://cnll.fr/static/img/logo-cnll-2017.png)
+
+> The CNLL (France’s Free Software and Open Digital Enterprise Union) is a trade association representing about 200 “pure players” companies (specialized or with a significant activity in free software): open source software vendors, systems integrators, consulting companies, etc. The CNLL’s main missions are to represent the OSS professional ecosystem to public authorities and existing national and international organizations, to ensure greater visibility of the entire ecosystem – its software and service offer, its specific assets and its needs, particularly in terms of employment and training; to enable the players in the sector to recognize themselves within it, to exchange and work together to develop the market, while respecting common values. www.cnll.fr
+
+↗️ [Source](https://cnll.fr)
+
 ## French Guiana (GF)
 ## French Polynesia (PF)
 ## French Southern Territories (TF)
