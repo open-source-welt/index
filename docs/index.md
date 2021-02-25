@@ -251,6 +251,19 @@
 ## Suriname (SR)
 ## Svalbard & Jan Mayen (SJ)
 ## Sweden (SE)
+
+### [Open Source Sweden](http://opensourcesweden.org)
+
+![Open Source Sweden](http://opensourcesweden.org/images_gui/logo.png)
+
+> Open Source Sweden is an industry association that supports the interests of Swedish Open Source companies.
+
+> We seek to maintain the interests of Swedish companies dedicated to supplying Open Source products, development and services.
+
+> Our mission is to stimulate a healthy market for Software through the development, provision, and support of products and services based on Open Source Software and Open Standards.
+
+↗️ [Source](http://opensourcesweden.org)
+
 ## Switzerland (CH)
 
 ### [CH Open](https://www.ch-open.ch)
