@@ -23,6 +23,19 @@
 ## Barbados (BB)
 ## Belarus (BY)
 ## Belgium (BE)
+
+### [OpenForum Europe](https://openforumeurope.org)
+
+![OpenForum Europe](https://openforumeurope.org/wp-content/uploads/2020/09/logo-ofe.svg)
+
+> OFE is an independent, not-for-profit think tank providing innovative thinking and comment on key aspects of Digital/ICT within a core competence of ‘openness’.
+
+> Its focus is on Brussels, where it maintains a full time office providing policy analysis, advice and input not only to its supporters, but with the European Commission, Council and Parliament.
+
+> OFE draws its support both from global suppliers from industry, from local SME and community organisations, and through its participation in projects. OFE is also supported by its global network (some 60+ strong) of OpenForum Academy Fellows, each peer-appointed and drawn from both academia and operational practice, who collectively represent the best in innovative thinking within key areas of interest.
+
+↗️ [Source](https://openforumeurope.org)
+
 ## Belize (BZ)
 ## Benin (BJ)
 ## Bermuda (BM)
