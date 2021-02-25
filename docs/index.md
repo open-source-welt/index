@@ -137,6 +137,15 @@
 ## Ghana (GH)
 ## Gibraltar (GI)
 ## Greece (GR)
+
+### [GFOSS](https://gfoss.eu)
+
+![GFOSS](https://gfoss.ellak.gr/wp-content/uploads/sites/24/2016/07/gfoss2.png)
+
+> Open Technologies Alliance (GFOSS)  is a non-profit organization founded in 2008, 31 Universities and Research Centers are shareholders of GFOSS.   Our main goal is to promote Openness through the use and the development of Open Standards and Open Technologies in Education, Public Administration and Business in Greece.
+
+↗️ [Source](https://gfoss.eu)
+
 ## Greenland (GL)
 ## Grenada (GD)
 ## Guadeloupe (GP)
